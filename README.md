@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ntheanh201" alt="ntheanh201" /></a> </p>
 
-- 🔭 I’m currently working at [VCar](https://viettel.vn/vcar)
+- 🔭 I’m currently doing DevOps things
 
 - 📝 I regularly write articles on [https://kinn.dev](https://kinn.dev)
 
