@@ -1,5 +1,5 @@
 <h1 align="center">Hello, folks! 👋</h1>
-<h3 align="center">Backend Engineer with a passion for DevOps/Cloud</h3>
+<h3 align="center">DevOps | Backend | Cloud</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntheanh201&label=Profile%20views&color=0e75b6&style=flat" alt="ntheanh201" /> </p>
 
