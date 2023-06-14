@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently doing DevOps things
 
-- 📝 I regularly write articles on [https://ntheanh201.vercel.app](https://ntheanh201.vercel.app)
+- 📝 I regularly write articles on [https://ntheanh201.id.vn](https://ntheanh201.id)
 
 - 📫 How to reach me **ntheanh201@gmail.com**
 
