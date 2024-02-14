@@ -22,7 +22,7 @@ My latest interests are currently in:
 
 ## Blog Posts
 
-- [UI package: Gather user feedback in your React apps](https://ntheanh201.id.vn/articles/ui-package-gather-user-feedback-in-your-react-apps.html): a NPM package to gather user feedback in your React apps integrated with TailwindCSS, shadcn/ui, Storybook
+- [UI package: Gather user feedback in your React apps](https://dev.to/ntheanh201/ui-package-gather-user-feedback-in-your-react-apps-2g09): a NPM package to gather user feedback in your React apps integrated with TailwindCSS, shadcn/ui, Storybook
 - [How GlitchTip helped me solve real-world problem](https://ntheanh201.id.vn/articles/how-glitchtip-helped-me-solve-real-world-problem.html):
   how I use GlitchTip to get statistics for KPI/KQI reporting
 - [Pagination service using Sequelize for NestJS](https://ntheanh201.id.vn/articles/pagination-service-using-sequelize-for-nestjs.html):
