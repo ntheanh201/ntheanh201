@@ -12,7 +12,7 @@ My latest interests are currently in:
 
 ## Projects
 
-- [trafficcontrol-grafana-scenes](https://github.com/ntheanh201/trafficcontrol-grafana-scenes): for Apache Traffic Control - Grafana dynamic dashboards using Scenes, [trafficcontrol - PR #7927](https://github.com/apache/trafficcontrol/pull/7927)
+- [trafficcontrol-grafana-scenes](https://github.com/ntheanh201/trafficcontrol-grafana-scenes): for Apache Traffic Control - Grafana dynamic dashboards using Scenes (a frontend library for building highly interactive apps on top of Grafana), [trafficcontrol - PR #7927](https://github.com/apache/trafficcontrol/pull/7927)
 - [kodekloud-engineer](https://github.com/ntheanh201/kodekloud-engineer): Enhance Kodekloud Engineer solutions (Linux, K8S, Jenkins, Git, ...) by leveraging Ansible 
 - [udacity-capstone](https://github.com/ntheanh201/udacity-capstone): Final Cloud DevOps Nanodegree program
 - [gitops-cert-level-2-examples](https://github.com/ntheanh201/gitops-cert-level-2-examples): GitOps certification level 2 examples
