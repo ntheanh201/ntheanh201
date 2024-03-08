@@ -8,7 +8,7 @@ DevOps | Software Engineer @ <img align="center" src="./assets/viettel_networks.
 
 My latest interests are currently in:
 
-- [Apache Traffic Control](https://github.com/apache/trafficcontrol/pulls/ntheanh201): Content delivery network
+- [Apache Traffic Control](https://github.com/apache/trafficcontrol/pulls?q=is%3Apr+author%3Antheanh201+): Content delivery network
 
 ## Projects
 
