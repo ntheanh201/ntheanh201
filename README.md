@@ -21,7 +21,7 @@ My latest interests are currently in:
 - [mattermost-meme-plus](https://github.com/ntheanh201/mattermost-meme-plus): Microsoft Edge Extension for chatting with meme in Mattermost
 
 ## Blog Posts
-
+- [Apache Traffic Control - Migrating Grafana scripted CDN metrics dashboards to Scenes: a seamless transition](https://ntheanh201.hashnode.dev/apache-traffic-control-migrating-grafana-scripted-cdn-metrics-dashboards-to-scenes-a-seamless-transition)
 - [UI package: Gather user feedback in your React apps](https://dev.to/ntheanh201/ui-package-gather-user-feedback-in-your-react-apps-2g09): a NPM package to gather user feedback in your React apps integrated with TailwindCSS, shadcn/ui, Storybook
 - [How GlitchTip helped me solve real-world problem](https://ntheanh201.id.vn/articles/how-glitchtip-helped-me-solve-real-world-problem.html):
   how I use GlitchTip to get statistics for KPI/KQI reporting
