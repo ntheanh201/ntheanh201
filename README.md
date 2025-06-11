@@ -8,6 +8,7 @@ DevOps | Software Engineer @ <img align="center" src="./assets/viettel_networks.
 
 My latest interests are currently in:
 
+- [Kubeflow](https://github.com/kubeflow/kubeflow/pulls/ntheanh201): AI platform on Kubernetes
 - [Apache Traffic Control](https://github.com/apache/trafficcontrol/pulls?q=is%3Apr+author%3Antheanh201+): Content delivery network
 - [Kubernetes](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Antheanh201+): Kubernetes SIG Docs
 - [CNCF Cloud Native Glossary](https://github.com/cncf/glossary/pulls?q=is%3Apr+author%3Antheanh201+): CNCF Cloud Native Glossary
