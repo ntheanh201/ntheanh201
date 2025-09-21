@@ -23,6 +23,7 @@ My latest interests are currently in:
 - [k8s-auto-healing](https://github.com/ntheanh201/k8s-auto-healing): Use Go to manage Kubernetes clusters. Leveraging client-go, it proactively addresses issues by conducting periodic checks and triggering restarts in case of errors - such as tackling Zalando Postgres lagging, ... Besides, the project integrates with Prometheus alerts, enhancing cluster stability by handling known errors sent. The Golang code implemented the Go-clean-architecture and Registry design patterns, ensuring robustness and scalability.
 
 ## Talks
+- From Vietnam to the World: Contributing to Kubernetes and earning the Linux Foundation Scholarship at [#cTENcf Birthday Bash Hanoi 🇻🇳](https://community.cncf.io/events/details/cncf-cloud-native-hanoi-presents-ctencf-birthday-bash-hanoi/)
 - [VIETTELDX TALKS #8: AI GÕ CỬA - DOANH NGHIỆP VIỆT ĐÃ SẴN SÀNG](https://www.youtube.com/watch?v=8pN4ft0OzpY)
 - HAMi: Fractional GPU for Efficient AI in Cloud Native at [OpenInfra & Cloud Native Day Vietnam 2025](https://www.vietopeninfra.org/void2025)
 - Fractional GPU for AI: Open Source Solutions in Cloud Native at [Cloud Native Hanoi May Meetup: GPU and eBPF on Kubernetes](https://community.cncf.io/events/details/cncf-cloud-native-hanoi-presents-may-meetup-gpu-and-ebpf-on-kubernetes/)
