@@ -2,7 +2,7 @@
 
 ## I'm The Anh Nguyen 👋
 
-Building AI/GPU Platform @ <img align="center" src="./assets/viettel_networks.png" alt="Viettel Networks" height="30" /> Viettel Networks
+Building & Shaping AI/GPU/MLOps Platform @ <img align="center" src="./assets/viettel_networks.png" alt="Viettel Networks" height="30" /> Viettel Networks
 
 [LinkedIn](https://www.linkedin.com/in/ntheanh201/) | [Blog](https://ntheanh201.id.vn/)
 
