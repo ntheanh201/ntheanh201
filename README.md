@@ -2,7 +2,7 @@
 
 ## I'm The Anh Nguyen 👋 
 
-Building & Shaping AI/GPU/MLOps Platform @ <img align="center" src="./assets/viettel_networks.png" alt="Viettel Networks" height="30" /> Viettel Networks
+Building & Shaping AI/GPU/MLOps Platform @ <img align="center" src="./assets/viettel_networks.png" alt="Viettel Networks" height="30" />
 - [Kubestronaut](https://www.credly.com/badges/aac477c8-f802-4264-88ba-0dc84f84e046/linked_in?t=syf2pp) <img height="30" alt="image" align="center" src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/other/kubestronaut/horizontal/color/kubestronaut-horizontal-color.svg" alt="kubestronaut" />
 - [NVIDIA-Certified](https://www.credly.com/badges/8d66c4d4-6dc9-48b5-bb64-18b3209ec0c5/linked_in?t=t53tdv) <img height="15" alt="image" align="center" src="https://github.com/user-attachments/assets/c9aa7f36-42d3-475f-bbf8-79c49f48b5bf" alt="nca-aiio" />
 
