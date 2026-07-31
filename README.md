@@ -25,6 +25,7 @@ My latest interests are currently in:
 - [k8s-auto-healing](https://github.com/ntheanh201/k8s-auto-healing): Use Go to manage Kubernetes clusters. Leveraging client-go, it proactively addresses issues by conducting periodic checks and triggering restarts in case of errors - such as tackling Zalando Postgres lagging, ... Besides, the project integrates with Prometheus alerts, enhancing cluster stability by handling known errors sent. The Golang code implemented the Go-clean-architecture and Registry design patterns, ensuring robustness and scalability.
 
 ## Talks
+- From Project to Production: HAMi and Viettel Cloud at [KCD & OpenInfra Days Vietnam 2026](https://sessionize.com/view/c0qvrydt/GridSmart)
 - Auditable Autonomy: Engineering With AI Teammates That Leave a Trace at [The Future of Software Engineering: Kỹ nghệ phần mềm trong kỷ nguyên Agentic AI](https://viettelfamily.com/news/vds-quy-tu-chuyen-gia-viettel-ban-ve-tuong-lai-software-engineering-global)
 - From Vietnam to the World: Contributing to Kubernetes and earning the Linux Foundation Scholarship at [#cTENcf Birthday Bash Hanoi 🇻🇳](https://community.cncf.io/events/details/cncf-cloud-native-hanoi-presents-ctencf-birthday-bash-hanoi/)
 - [VIETTELDX TALKS #8: AI GÕ CỬA - DOANH NGHIỆP VIỆT ĐÃ SẴN SÀNG](https://www.youtube.com/watch?v=8pN4ft0OzpY)
