@@ -73,6 +73,10 @@ gpu & fabric  GPU Operator + Network Operator: InfiniBand / GPUDirect RDMA,
     <img height="80" src="https://raw.githubusercontent.com/cncf/artwork/main/other/kubestronaut/stacked/color/kubestronaut-stacked-color.svg" alt="Kubestronaut" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/323137e3-08d9-475d-b03e-3dd8f0f3740a">
+    <img height="80" src="https://images.credly.com/images/f2040db3-3904-4240-8966-e87b1510bea0/blob" alt="Claude Certified Architect - Foundations" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/9237fdde-0176-416a-95e0-5c2568599ae4">
     <img height="30" src="https://github.com/user-attachments/assets/c9aa7f36-42d3-475f-bbf8-79c49f48b5bf" alt="NVIDIA-Certified Professional in AI Operations" />
   </a>
@@ -80,6 +84,7 @@ gpu & fabric  GPU Operator + Network Operator: InfiniBand / GPUDirect RDMA,
 
 - [**CNCF Ambassador**](https://www.cncf.io/people/ambassadors/) — Cloud Native Computing Foundation
 - [**Kubestronaut**](https://www.credly.com/badges/aac477c8-f802-4264-88ba-0dc84f84e046/linked_in?t=syf2pp) — CKA · CKAD · CKS · KCNA · KCSA
+- [**Claude Certified Architect – Foundations**](https://www.credly.com/badges/323137e3-08d9-475d-b03e-3dd8f0f3740a) — Anthropic
 - [**NVIDIA-Certified Professional**](https://www.credly.com/badges/9237fdde-0176-416a-95e0-5c2568599ae4) — AI Operations (NCP-AIO)
 - **[Kubernetes](https://github.com/kubernetes) org member** — SIG Docs, Vietnamese localization approver
 - **[Project-HAMi](https://github.com/Project-HAMi) org member** — fractional GPU sharing for Kubernetes
