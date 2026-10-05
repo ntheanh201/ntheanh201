@@ -39,6 +39,7 @@ spec:
     - Fractional & multi-tenant GPU (HAMi, MIG, GPU Operator)
     - InfiniBand / GPUDirect RDMA & multi-node NCCL
     - MLOps platforms on Kubernetes (Kubeflow, KServe)
+    - LLM inference serving at scale (NVIDIA Dynamo, Token Factory)
   community:
     - kubernetes-org-member
     - project-hami-org-member
@@ -123,5 +124,6 @@ gpu & fabric  GPU Operator + Network Operator: InfiniBand / GPUDirect RDMA,
 
 ## Writing
 
+- [Turning GPU-hours into tokens: how Viettel Cloud serves multiple LLM families with NVIDIA Dynamo](https://viettelcloud.vn/en/tech-blog/4/142) — Viettel Cloud Tech Blog ([Tiếng Việt](https://viettelcloud.vn/tech-blog/4/142))
 - [Apache Traffic Control — Migrating Grafana scripted CDN metrics dashboards to Scenes: a seamless transition](https://ntheanh201.hashnode.dev/apache-traffic-control-migrating-grafana-scripted-cdn-metrics-dashboards-to-scenes-a-seamless-transition)
 - [How GlitchTip helped me solve a real-world problem](https://ntheanh201.id.vn/articles/how-glitchtip-helped-me-solve-real-world-problem.html) — using GlitchTip to gather statistics for KPI/KQI reporting
