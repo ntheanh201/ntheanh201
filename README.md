@@ -86,7 +86,7 @@ gpu & fabric  GPU Operator + Network Operator: InfiniBand / GPUDirect RDMA,
 - [**CNCF Ambassador**](https://www.cncf.io/people/ambassadors/) — Cloud Native Computing Foundation
 - [**Kubestronaut**](https://www.credly.com/badges/aac477c8-f802-4264-88ba-0dc84f84e046/linked_in?t=syf2pp) — CKA · CKAD · CKS · KCNA · KCSA
 - [**Claude Certified Architect – Foundations**](https://www.credly.com/badges/323137e3-08d9-475d-b03e-3dd8f0f3740a) — Anthropic
-- **NVIDIA-Certified Professional** — [AI Operations (NCP-AIO)](https://www.credly.com/badges/9237fdde-0176-416a-95e0-5c2568599ae4) · AI Infrastructure (NCP-AII) · AI Networking (NCP-AIN)
+- **NVIDIA-Certified Professional** — [AI Operations (NCP-AIO)](https://www.credly.com/badges/9237fdde-0176-416a-95e0-5c2568599ae4) · [AI Infrastructure (NCP-AII)](https://credential.nvidia.com/3a8e0b7b-32b6-47bd-a127-49cc8ebc77f5) · [AI Networking (NCP-AIN)](https://credential.nvidia.com/9beb4b0a-85a7-474f-b915-e64161966efa)
 - **[Kubernetes](https://github.com/kubernetes) org member** — SIG Docs, Vietnamese localization approver
 - **[Project-HAMi](https://github.com/Project-HAMi) org member** — fractional GPU sharing for Kubernetes
 - **CNCF Cloud Native Glossary** — Vietnamese localization lead
