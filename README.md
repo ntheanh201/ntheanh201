@@ -98,6 +98,15 @@ and 2026, and the Vietnam AI Open Hackathon 2026 with NVIDIA.
 - [**Outstanding Individual, Viettel's global IT line, 2025**](https://ntheanh201.id.vn/notes/2026-06-30-viettel-it-outstanding-individual-2025.html), Viettel Group
 - [**Turning GPU-hours into tokens**](https://viettelcloud.vn/en/tech-blog/4/142) is listed in [NVIDIA Dynamo External Publications](https://docs.nvidia.com/dynamo/external-publications)
 
+<p align="center">
+  <a href="https://certdirectory.io/profile/the-anh-nguyen?utm_source=github&utm_medium=readme">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/the-anh-nguyen.svg?style=card&theme=dark">
+      <img alt="The Anh Nguyen on CertDirectory" src="https://certdirectory.io/badge/the-anh-nguyen.svg?style=card">
+    </picture>
+  </a>
+</p>
+
 ## Upstream
 
 | Project | What I work on |
