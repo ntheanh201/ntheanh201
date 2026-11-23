@@ -99,10 +99,10 @@ and 2026, and the Vietnam AI Open Hackathon 2026 with NVIDIA.
 - [**Turning GPU-hours into tokens**](https://viettelcloud.vn/en/tech-blog/4/142) is listed in [NVIDIA Dynamo External Publications](https://docs.nvidia.com/dynamo/external-publications)
 
 <p align="center">
-  <a href="https://certdirectory.io/profile/the-anh-nguyen?utm_source=github&utm_medium=readme">
+  <a href="https://certdirectory.io/profile/ntheanh201?utm_source=github&utm_medium=readme">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/the-anh-nguyen.svg?style=card&theme=dark">
-      <img alt="The Anh Nguyen on CertDirectory" src="https://certdirectory.io/badge/the-anh-nguyen.svg?style=card">
+      <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/ntheanh201.svg?style=card&theme=dark">
+      <img alt="The Anh Nguyen on CertDirectory" src="https://certdirectory.io/badge/ntheanh201.svg?style=card">
     </picture>
   </a>
 </p>
